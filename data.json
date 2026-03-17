@@ -1,1 +1,17 @@
-
+{
+  "conception": {
+    "title": "SMART MATERIALS",
+    "description": "Using carbon-fiber and RGB glass for futuristic structures.",
+    "materials": ["Concrete", "Steel", "Smart Glass", "Bio-Plastic"]
+  },
+  "structure": {
+    "title": "MODERN SKELETONS",
+    "description": "Earthquake resistant and eco-friendly frames.",
+    "materials": ["Bamboo Steel", "Recycled Aluminum", "3D Printed Clay"]
+  },
+  "vr": {
+    "title": "VIRTUAL REALITY",
+    "description": "Walk through your design before we lay the first brick.",
+    "materials": ["Oculus Integration", "4K Real-time Rendering", "Haptic Feedback"]
+  }
+}
